@@ -1,35 +1,32 @@
-Hi there 👋
+# Hi, I'm Saad Mahmoud [wave]
 
-I'm a coding newbie, just starting my Bachelor's in Software Engineering. I'm super excited to learn and grow in this field.
+I'm a Software Engineering student and aspiring Full-Stack Developer. I build web applications using **Django, React**, and other modern web technologies. I enjoy learning new tools, working on projects, and improving my coding skills every day.
 
-🔭 What I'm Up To:
+---
 
--Getting the hang of programming basics
+## About Me
+- Currently focusing on **Full-Stack Web Development**
+- Interested in **APIs, databases, and cloud technologies**
+- Passionate about writing clean, maintainable code
+- Always learning new programming languages and frameworks
 
--Trying out different coding languages and tech
+---
 
-🌱 Learning Journey:
+## Skills
+- **Languages:** Python, Java, JavaScript, SQL, HTML, CSS  
+- **Frameworks/Libraries:** Django, React, Bootstrap  
+- **Tools:** Git, GitHub, VS Code, SQLite, MySQL  
+- **Other:** REST APIs, Responsive Web Design, Project Management  
 
--Mastering the fundamentals of software development
+---
 
--Picking up best practices in coding and project management
+## Projects
+- **Library Management System** – Django-based system to manage books, students, and borrowing records  
+- **Portfolio Website** – Personal website showcasing projects and skills  
+- More projects coming soon as I continue learning
 
-💬 Let's Chat About:
+---
 
--What it's like starting out in coding
-
--How to balance studies with coding projects
-
-📫 Reach Out:
-
--[saadamahmoud525@outlook.com]
-
-⚡ Fun Fact:
-
--I love playing games whenever I get some free time.
-
-
-<!---
-SourTik/SourTik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contact
+- Email: [saadamahmoud525@outlook.com](mailto:saadamahmoud525@outlook.com)  
+- LinkedIn: [https://www.linkedin.com/in/saad-ahmed-mahmoud/]

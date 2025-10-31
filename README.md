@@ -1,4 +1,4 @@
-# Hi, I'm Saad Mahmoud [wave]
+# Hi, I'm Saad Mahmoud
 
 I'm a Software Engineering student and aspiring Full-Stack Developer. I build web applications using **Django, React**, and other modern web technologies. I enjoy learning new tools, working on projects, and improving my coding skills every day.
 

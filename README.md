@@ -29,4 +29,4 @@ I'm a Software Engineering student and aspiring Full-Stack Developer. I build we
 
 ## Contact
 - Email: [saadamahmoud525@outlook.com](mailto:saadamahmoud525@outlook.com)  
-- LinkedIn: [https://www.linkedin.com/in/saad-ahmed-mahmoud/]
+- LinkedIn: https://www.linkedin.com/in/saad-ahmed-mahmoud/
